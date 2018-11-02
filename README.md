@@ -1,0 +1,2 @@
+# contraxaware
+Contraxaware creates thoughtfully designed contract management software. ContraxAware is easy to implement and simple to use and includes an array of features that will streamline your entire contract management process. Centralize all of your contracts, be alerted of expiring contracts, keep on top of contract obligations, create new contracts with ease, automate approvals and speed up signatures with E-Signatures. Most importantly, we provide exceptional support.
